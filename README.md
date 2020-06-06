@@ -35,15 +35,15 @@
 
 수화언어는 제한된 시간 내에 한정된 표현을 통해 원하는 의미만을 전달해야 하므로, 허사(虛辭; 문법적 기능을 나타내는 조사, 어미 등)를 최대한 생략하고 실사(實辭) 위주로 발달했다.
 
-![SignLanguage.png](./img/SignLanguage.png)
+![SignLanguage.png](https://raw.githubusercontent.com/Alphanewbie/NSB/master/IMG/SignLanguage.png)
 
 ## **UI**
 
-![UI.png](./img/UI.png)
+![UI.png](https://raw.githubusercontent.com/Alphanewbie/NSB/master/IMG/UI.png)
 
 ## 구조
 
-![FlowChart.png](./img/FlowChart.png)
+![FlowChart.png](https://raw.githubusercontent.com/Alphanewbie/NSB/master/IMG/FlowChart.png)
 
 ## 실행 영상
 
